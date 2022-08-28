@@ -29,14 +29,14 @@ html[data-theme=light] {
 
 .dark-theme,
 html[data-theme=dark] {  
-	--mark-yellow: #fff3a3;
-	--mark-pink: #f2b3cf;
-	--mark-blue: #b5d3ff;
-	--mark-green: #bbfabb;
-	--mark-red: #fc4e4e;
-	--mark-grey: #cacfd9;
-	--mark-orange: #ffb86c;
-	--mark-purple: #d2b3ff;
+	--mark-yellow: #ffe85580;
+	--mark-pink: #ff89be80;
+	--mark-blue: #84b5ff80;
+	--mark-green: #97ff9780;
+	--mark-red: #ff558280;
+	--mark-grey: #80808080;
+	--mark-orange: #ffb86c80;
+	--mark-purple: #c097ff80;
 
 	--mark-decoration-yellow: ;
 	--mark-decoration-pink: ;
